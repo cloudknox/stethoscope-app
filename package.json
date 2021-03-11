@@ -107,7 +107,7 @@
     "graphql": "^0.13.2",
     "graphql-server-express": "^1.2.0",
     "graphql-tools": "^2.12.0",
-    "helmet": "^3.9.0",
+    "helmet": "^3.23.3",
     "js-yaml": "^3.10.0",
     "marked": "^0.3.7",
     "moment": "^2.19.3",
